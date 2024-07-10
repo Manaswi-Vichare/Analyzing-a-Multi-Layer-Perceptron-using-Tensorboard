@@ -1,6 +1,6 @@
 # Analyzing-a-Multi-Layer-Perceptron-using-Tensorboard
 
-Implementing an MLP to classify the IRIS dataset. The MLP has 2 hidden layers, one with 5 neurons and one with 7 neurons. The input layer has 4 neurons and the output layer has 3 neurons.
+Implementing an MLP to classify the IRIS dataset and analysing using Tensorboard. The MLP has 2 hidden layers, one with 5 neurons and one with 7 neurons. The input layer has 4 neurons and the output layer has 3 neurons.
 
 **Language Used:** Python
 
